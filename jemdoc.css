@@ -390,6 +390,6 @@ table.imgtable, table.imgtable td {
 
 .container p {
     margin: 0; /* 去除段落默认的外边距 */
-    font-size: 16px; /* 设置文字大小 */
+    font-size: 20px; /* 设置文字大小 */
     line-height: 20px; /* 设置文字的行高与图片高度一致 */
 }
