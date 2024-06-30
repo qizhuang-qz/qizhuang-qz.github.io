@@ -381,6 +381,8 @@ table.imgtable, table.imgtable td {
 .container {
     display: flex;
     align-items: center; /* 垂直居中对齐 */
+    margin-top: 6px; /* 添加上边距 */
+    margin-bottom: 6px; /* 添加下边距 */
 }
 
 .container img {
