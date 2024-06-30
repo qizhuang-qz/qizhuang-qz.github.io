@@ -370,7 +370,8 @@ tr.heading {
 }
 
 img {
-    border: none;
+    border: none; /* 这行CSS规则将所有图片的边框设置为无（即没有边框）。默认情况下，一些浏览器会为图片添加一个细边框，这个规则确保所有图片不再显示边框。*/
+    padding-bottom: 0em;
 }
 
 table.imgtable, table.imgtable td {
