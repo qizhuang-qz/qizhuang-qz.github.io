@@ -35,13 +35,13 @@ body {
 	white-space: nowrap;
     text-align: justify;
     vertical-align: top;
-    margin-left: -50px;
+    margin-left: 20px;
 }
 
 #layout-menu td {
 	background: #f4f4f4;
     vertical-align: top;
-	margin-left: -50px;
+	margin-left: 20px;
 }
 
 #layout-content {
