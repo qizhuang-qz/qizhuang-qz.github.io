@@ -101,10 +101,9 @@ div.menu-item {
 }
 
 div#toptitle {
-	padding-bottom: 0.2em;
-	margin-bottom: 1.5em;
-	border-bottom: 3px双灰色;
-	border-top: 3px double gray; 
+    padding-bottom: 0.2em;
+    margin-bottom: 1.5em;
+    border-bottom: 3px double gray; /* 仅在底部添加双横线 */
 }
 
 /* 如果我们用标题开始页面，则减少空格。 */
