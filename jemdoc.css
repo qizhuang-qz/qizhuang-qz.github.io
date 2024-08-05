@@ -41,6 +41,7 @@ body {
 #layout-menu td {
 	background: #f4f4f4;
     vertical-align: top;
+	margin-left: -50px;
 }
 
 #layout-content {
