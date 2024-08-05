@@ -106,7 +106,6 @@ div#toptitle {
 	border-bottom: 3px双灰色;
 }
 
-
 /* 如果我们用标题开始页面，则减少空格。 */
 div#toptitle + h2, div#toptitle + h3 {
 	margin-top: -0.7em;
