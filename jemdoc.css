@@ -354,7 +354,7 @@ td {
     padding: 2px;
     padding-left: 0.5em;
     padding-right: 0.5em;
-    text-align: center;
+    text-align: justify;
     border: 1px solid gray;
 }
 
@@ -374,7 +374,7 @@ img {
 
 table.imgtable, table.imgtable td {
     border: none;
-    text-align: left;
+    text-align: justify;
 }
 
 .contact-info {
